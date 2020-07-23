@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋, I'm Fernando!!
+I'm a software developer, passionate about programming and tech things. Love to solve problems and learn new stuff.
+I've created this blog to write things that I learn in my work, to enforce the knowledge, and, at the same time, share with others these things that may be useful. 
+- 📫 How to reach me: 
+I've created a blog to write things that I learn in my work and share with others these things that may be useful. You can find more about the stuff that I'm doing  at [fernandovbs.dev](fernandovbs.dev)
 
 <!--
 **fernandovbs/fernandovbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
