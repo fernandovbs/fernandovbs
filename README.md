@@ -1,5 +1,5 @@
-<h2 style="text-align:center;"> Hi 👋, I'm Fernando!!</h2>
-<h4 style="text-align:center;">Passionate about programming and tech things. Love to solve problems and learn new stuff.</h4>
+<h2> Hi 👋, I'm Fernando!!</h2>
+<h4>Passionate about programming and tech things. Love to solve problems and learn new stuff.</h4>
 
  <p>🔭 I’m currently working on:</p>
 <ul>
@@ -17,3 +17,4 @@
   <li>React</li>
   <li>NodeJS</li>
 </ul>
+<img align=right src="https://fernandovbs.dev/images/profile.jpg" alt="Fernando Souza">
