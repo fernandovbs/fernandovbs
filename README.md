@@ -1,19 +1,19 @@
-### Hi 👋, I'm Fernando!!
-I'm a software developer, passionate about programming and tech things. Love to solve problems and learn new stuff.
-- 📫 How to reach me: 
-I've created a blog to write things that I learn in my work and share with others these things that may be useful. You can find more about the stuff that I'm doing  at https://fernandovbs.dev
+<h2> Hi 👋, I'm Fernando!!</h2>
+<h4>Passionate about programming and tech things. Love to solve problems and learn new stuff.</h4>
 
-<!--
-**fernandovbs/fernandovbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+<ul>
+  <li>Wordpress</li>
+  <li>Yii2</li>
+  <li>NodeJS</li>
+  <li>Figuring out how to scale Wordpress projects (High data volume)</li>
+  <li>Automating tasks with NodeJS</li>  
+  <li>Managing services (NGinx, Varnish, PHP-fpm, Redis, Mysql, Elastic stack)</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:
+<ul>
+  <li>Typescript</li>
+  <li>React</li>
+  <li>NodeJS</li>
+</ul>
