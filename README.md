@@ -1,7 +1,7 @@
 <h2 style="text-align:center;"> Hi 👋, I'm Fernando!!</h2>
 <h4 style="text-align:center;">Passionate about programming and tech things. Love to solve problems and learn new stuff.</h4>
 
-- 🔭 I’m currently working on:
+ <p>🔭 I’m currently working on:</p>
 <ul>
   <li>Wordpress</li>
   <li>Yii2</li>
@@ -11,7 +11,7 @@
   <li>Managing services (NGinx, Varnish, PHP-fpm, Redis, Mysql, Elastic stack)</li>
 </ul>
 
-- 🌱 I’m currently learning:
+<p>🌱 I’m currently learning:</p>
 <ul>
   <li>Typescript</li>
   <li>React</li>
