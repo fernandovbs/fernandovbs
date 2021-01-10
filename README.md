@@ -1,8 +1,5 @@
-<style>
-  h2, h4 {text-align: center;}
-</style>
-<h2> Hi 👋, I'm Fernando!!</h2>
-<h4>Passionate about programming and tech things. Love to solve problems and learn new stuff.</h4>
+<h2 style="text-align:center;"> Hi 👋, I'm Fernando!!</h2>
+<h4 style="text-align:center;">Passionate about programming and tech things. Love to solve problems and learn new stuff.</h4>
 
 - 🔭 I’m currently working on:
 <ul>
